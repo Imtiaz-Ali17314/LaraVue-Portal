@@ -18,7 +18,7 @@
 
 This is my first dedicated Laravel + Vue full-stack project after mastering Vue.js independently, serving as a crucial step up from frontend-only development toward building complete web applications.
 
-🔗 **Repository:** [https://github.com/Imtiaz-Ali17314/LaraVue-Portal](https://github.com/Imtiaz-Ali17314/LaraVue-Portal)
+🔗 **Repository:** [https://github.com/imtiazaly/LaraVue-Portal](https://github.com/imtiazaly/LaraVue-Portal)
 
 ---
 
@@ -123,7 +123,7 @@ Ensure the following are installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Imtiaz-Ali17314/LaraVue-Portal.git
+git clone https://github.com/imtiazaly/LaraVue-Portal.git
 cd LaraVue-Portal
 ```
 
